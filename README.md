@@ -1,6 +1,6 @@
 <!-- PROJECT SHIELDS -->
 
-[![LinkedIn][linkedin-shield][https://www.linkedin.com/in/lisettecolon/]
+[LinkedIn][linkedin-shield](https://www.linkedin.com/in/lisettecolon/)
 
 
 
@@ -47,7 +47,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -133,15 +132,6 @@ Contributions are what make the open source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
