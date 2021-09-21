@@ -1,6 +1,6 @@
 function init (){
     //create a event listener for the save button
-    s('.SaveBtn').click((e)=>addEvent(e))
+    $('.SaveBtn').click((e)=>addEvent(e))
 
     //create a loop for every row, then straight to the save button. Attach listener to the save butttons
     function addEvent(e) {
